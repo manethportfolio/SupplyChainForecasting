@@ -4,6 +4,8 @@
 
 This project is a **Machine Learning-powered supply chain forecasting system** that predicts demand and provides actionable insights for inventory management, pricing strategy, and vendor synchronization. It integrates **AWS (S3, Bedrock), ML models (ARIMA, XGBoost), FAISS for vector search, and a user query system** to generate dynamic forecasts and recommendations.
 
+![Supply Chain Forcaster](Project3.png)
+
 ## User/Supplier manager expectations
 
 - **Demand Forecasting**: Predicts demand for a future date based on historical trends.
